@@ -17,7 +17,7 @@
     <truth.version>1.1.3</truth.version>
     <jsr305.version>3.0.2</jsr305.version>
     <checker.version>3.37.0</checker.version>
-    <errorprone.version>2.21.1</errorprone.version>
+    <errorprone.version>2.24.1</errorprone.version>
     <j2objc.version>2.8</j2objc.version>
     <javac.version>9+181-r4173-1</javac.version>
     <!-- Empty for all JDKs but 9-12 -->
